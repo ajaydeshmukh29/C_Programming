@@ -15,5 +15,13 @@ int main()
   scanf("%f", &Marks[3]);
   scanf("%f", &Marks[4]);
 
+  printf("Entered marks are : \n");
+  
+  printf("%f\n", Marks[0]);
+  printf("%f\n", Marks[1]);
+  printf("%f\n", Marks[2]);
+  printf("%f\n", Marks[3]);
+  printf("%f\n", Marks[4]);
+
   return 0;
 }
